@@ -10,5 +10,7 @@ Check out the [fusion table](https://www.google.com/fusiontables/DataSource?doci
 
 More information 
 ================
-Wikipedia: https://en.wikipedia.org/wiki/Indonesian_2010_census
-Statistics Indonesia: http://www.bps.go.id/eng/menutab.php?tabel=1&kat=1&id_subyek=12
+|Source|URL|
+|---|---|
+|Wikipedia|https://en.wikipedia.org/wiki/Indonesian_2010_census|
+|Statistics Indonesia|http://www.bps.go.id/eng/menutab.php?tabel=1&kat=1&id_subyek=12|
