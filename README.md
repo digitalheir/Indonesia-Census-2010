@@ -8,7 +8,7 @@ NOTE: The output file is a .csv file, but the pipe (|), not a comma, is used as 
 
 Check out [**the fusion table**](https://www.google.com/fusiontables/DataSource?docid=1OlmGuziakXDKU7EB-By-xUZH_2YiQdTGP5HWMohG) based on `population_indonesian_villages_no_null_cells.csv` for the table of population per village, and [**this one**](https://www.google.com/fusiontables/DataSource?docid=1su6q9up2aM42sRSIJk6Qmg1y_u04fjm0bCJ4uKFV) for population per municipality.
 
-![Heat map of Indonesian population](http://i.imgur.com/p315EUE.jpg)
+![Heat map of Indonesian population](http://i.imgur.com/d4BwXgM.png)
 More information 
 ================
 |Source|URL|
