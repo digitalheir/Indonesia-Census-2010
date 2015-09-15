@@ -15,7 +15,7 @@
 # This script replaces all the null cells with their implicit value (the first non-null cell above it)
 require 'csv'
 
-table = CSV.read('population_indonesian_villages.psv', {:col_sep => '|'})
+table = CSV.read('population_indonesian_villages.psv')
 
 def get_vals(row, i_code, i_name, prev_code, prev_name)
   if row[i_code] or row[i_name]
@@ -85,7 +85,7 @@ for i in 1..table.length-1 do
   row[9] = "INDONESIA #{prev_province_name} #{prev_muni_name} #{prev_district_name} #{prev_village_name}"
 end
 
-CSV.open('population_indonesian_villages_no_null_cells.csv', 'wb', {:col_sep => '|'}) do |psv|
+CSV.open('population_indonesian_villages_no_null_cells.csv', 'wb') do |psv|
   table.each do |row|
     psv << row
   end
