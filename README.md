@@ -8,8 +8,8 @@ I have made the data available in multiple formats:
 
 |Type|Note|
 |---|---|
-|[Fusion tables (population per village)](https://www.google.com/fusiontables/DataSource?docid=1OlmGuziakXDKU7EB-By-xUZH_2YiQdTGP5HWMohG)|based on [`population_indonesian_villages_no_null_cells.csv`](https://github.com/digitalheir/Indonesia-Census-2010/blob/master/population_indonesian_villages.csv)|
-|[Fusion table (population per municipality)](https://www.google.com/fusiontables/DataSource?docid=1su6q9up2aM42sRSIJk6Qmg1y_u04fjm0bCJ4uKFV)||
+|[Fusion table: population per village](https://www.google.com/fusiontables/DataSource?docid=1OlmGuziakXDKU7EB-By-xUZH_2YiQdTGP5HWMohG)|based on [population_indonesian_villages.csv](https://github.com/digitalheir/Indonesia-Census-2010/blob/master/population_indonesian_villages.csv)|
+|[Fusion table: population per municipality](https://www.google.com/fusiontables/DataSource?docid=1su6q9up2aM42sRSIJk6Qmg1y_u04fjm0bCJ4uKFV)||
 
 To facilitate geocoding, the tables contain a column with all location information concatenated (country + province + municipality + district + village). 
 
