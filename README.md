@@ -4,7 +4,7 @@ This repository contains code to make structured, machine-readable data out of t
 
 
 
-I have made the data available in multiple formats:
+The data is available in multiple formats:
 
 |Type|Note|
 |---|---|
