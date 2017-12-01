@@ -15,8 +15,8 @@ To facilitate geocoding, the tables contain a column with all location informati
 
 Aditionally, I have changed the name "GUN0NG KAPHO" (with the number 0) to "GUNONG KAPHO"  (with the letter 'O').
 
-[![Heat map of Indonesian population](https://leibniz.cloudant.com/assets/binary/indonesia-heat-map-no-labels.png)](https://www.google.com/fusiontables/DataSource?docid=1OlmGuziakXDKU7EB-By-xUZH_2YiQdTGP5HWMohG&pli=1#chartnew:id=9)
-[![Pie chart of Indonesian population per province](https://leibniz.cloudant.com/assets/binary/indonesia-chart.png)](https://www.google.com/fusiontables/DataSource?docid=1OlmGuziakXDKU7EB-By-xUZH_2YiQdTGP5HWMohG&pli=1#chartnew:id=9)
+[![Heat map of Indonesian population](https://github.com/digitalheir/Indonesia-Census-2010/raw/master/indonesia-heat-map-no-labels.png)](https://www.google.com/fusiontables/DataSource?docid=1OlmGuziakXDKU7EB-By-xUZH_2YiQdTGP5HWMohG&pli=1#chartnew:id=9)
+[![Pie chart of Indonesian population per province](https://github.com/digitalheir/Indonesia-Census-2010/raw/master/indonesia-chart.png)](https://www.google.com/fusiontables/DataSource?docid=1OlmGuziakXDKU7EB-By-xUZH_2YiQdTGP5HWMohG&pli=1#chartnew:id=9)
 
 More information 
 ================
